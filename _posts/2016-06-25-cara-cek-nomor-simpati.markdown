@@ -14,6 +14,8 @@ Beberapa pengguna kartu SimPATI bahkan tidak pernah menghafal nomornya karena me
 
 Dari pada repot mencari dus pembungkus kartu pada saat pembelian ataupun membuka casing handphone untuk mengintip tempelan nomor pada bagian belakangnya. Ada cara lain yang lebih simple, yakni dengan menghubungi kode dial `*808#`.
 
+![Cara cek nomor SimPATI]({{ site.url }}/pictures/cara-cek-nomor-simpati-0.jpg){: .center-image }
+
 Dengan demikian anda akan mendapatkan notifikasi berupa Popup yang menginformasikan nomor kartu SimPATI anda beserta dengan keterangan tambahan seperti pemberlakuan tarif akses layanan tersebut.
 
 Tidak hanya itu, anda akan menerima pesan singkat (SMS) dari nomor `98888` yang berisi pemberitahuan yang sama. Jadi, selang beberapa menit jika anda lupa lagi nomor tersebut, tidak harus melakukan panggilan yang sama namun cukup mengeceknya melalui SMS tadi.
