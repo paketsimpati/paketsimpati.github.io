@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Paket Internet SimPATI Murah
+title:  Cara Daftar Paket Internet SimPATI Murah
 date:   2016-06-24 22:47:35 +0900
 categories: internet
 permalink: paket-internet-simpati-murah
