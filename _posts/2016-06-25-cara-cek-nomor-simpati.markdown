@@ -22,7 +22,7 @@ Gunakan fitur `Call Me`, ini merupakan fitur lama yang digunakan untuk meminta n
 	2. Panggil dan tunggu respon
 </blockquote>
 
-![Cara cek nomor SimPATI]({{ site.url }}/pictures/cara-cek-nomor-simpati-0.jpg){: .center-image }
+![Cara cek nomor SimPATI]({{ base.url }}/pictures/cara-cek-nomor-simpati-0.jpg){: .center-image }
 
 Dengan demikian anda akan mendapatkan notifikasi berupa Popup yang menginformasikan nomor kartu SimPATI anda beserta dengan keterangan tambahan seperti pemberlakuan tarif akses layanan tersebut.
 

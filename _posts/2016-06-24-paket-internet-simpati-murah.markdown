@@ -7,13 +7,13 @@ permalink: paket-internet-simpati-murah
 excerpt_separator: <!--more-->
 ---
 
-<b>Paket Internet SimPATI Murah</b> - Halo pengguna SimPATI, kali ini <i>PakPATI</i> akan memberikan informasi terkait paket internet salah produk unggulan ini. Telkomsel mengeluarkan salah satu produk handalanya yakni Kartu SimPATI dalam beberapa versi paket. Beberapa paket bersifat<!--more--> terbatas, yang berarti tidak dapat diakses oleh paket SimPATI lain melalui fasilitas pindah paket seperti yang dapat diakses melalui menu standard `*999#`.
+<b>Paket Internet SimPATI Murah</b> - Telkomsel mengeluarkan salah satu produk handalanya yakni Kartu SimPATI dalam beberapa versi paket. Beberapa paket bersifat<!--more--> terbatas, yang berarti tidak dapat diakses oleh paket SimPATI lain melalui fasilitas pindah paket seperti yang dapat diakses melalui menu standard `*999#`.
 
 Bagi anda pelanggan setia kartu SimPATI yang hendak memperoleh <i>paket internet SimPATI harga murah</i> dapat menggunakan beberapa pilihan berikut ini yang telah dirangkum sesuai dengan jenis kartu SimPATI anda.
 <h3>1. Paket Internet Murah SimPATI Active</h3>
 Pastikan jenis kartu sim anda adalah SimPATI Active, untuk mengecek status kartu anda bisa melalui menu `*999#`. Lalu untuk mendapatkan paket internet murah, silahkan gunakan langkah-langkah berikut ini:
 
-![Paket internet SimPATI murah]({{ site.url }}/pictures/paket-internet-simpati-murah.jpg){: .center-image }
+![Paket internet SimPATI murah]({{ base.url }}/pictures/paket-internet-simpati-murah.jpg){: .center-image }
 
 <ol>
  	<li>Tekan/Call "*999*333#"</li>
@@ -24,12 +24,12 @@ Pastikan jenis kartu sim anda adalah SimPATI Active, untuk mengecek status kartu
  	<li>Paket Internet SimPATI Murah anda telah aktif sesuai tarif zona yang berlaku</li>
 </ol>
 
-![Paket murah internet SimPATI]({{ site.url }}/pictures/paket-murah-internet-simpati.jpg){: .center-image }
+![Paket murah internet SimPATI]({{ base.url }}/pictures/paket-murah-internet-simpati.jpg){: .center-image }
 
 Untuk mengecek jumlah paket data anda, dapat dengan melakukan panggilan ke nomor `*889#` atau mengirimkan SMS ke nomor `3636` dengan format `FLASH INFO`.
 
 <h3>2. Paket Internet SimPATI Murah 4G LTE</h3>
-Berikut inia adalah [paket SimPATI]({{site.url}}) khusus untuk kartu yang telah suport dengan jaringan `4G` beserta dengan perangkat mobile phone ataupun modem anda.
+Berikut inia adalah [paket SimPATI]({{base.url}}) khusus untuk kartu yang telah suport dengan jaringan `4G` beserta dengan perangkat mobile phone ataupun modem anda.
 
 Saat ini untuk nominal tarif SimPATI 4G LTE sendiri dimulai dari `Rp. 150.000,-` dengan kuota paket internet hingga mencapai 32 GB dengan masa berlaku selama 60 hari atau dua bulan.
 

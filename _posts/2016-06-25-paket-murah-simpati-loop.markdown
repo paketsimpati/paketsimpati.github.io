@@ -15,7 +15,7 @@ Berikut ini adalah langkah-langkah untuk melakukan registrasi paket Internet Sim
 <h3>Cara Daftar Paket Internet SimPATI Loop 12 GB</h3>
 Pertama-tama tentu pastikan kartu SimPATI Loop anda tidak dalam masa tenggang dan memiliki jumlah pulsa yang cukup untuk aktivasi paket internet ini. Jika temikian, selanjutnya silahkan ikuti cara berikut:
 
-![Paket murah SimPATI Loop 12 GB]({{ site.url }}/pictures/paket-murah-simpati-loop-12gb-1.jpg){: .center-image }
+![Paket murah SimPATI Loop 12 GB]({{ base.url }}/pictures/paket-murah-simpati-loop-12gb-1.jpg){: .center-image }
 
 <blockquote>
 	1. Dial ke *567# <br/>
@@ -29,4 +29,12 @@ Pertama-tama tentu pastikan kartu SimPATI Loop anda tidak dalam masa tenggang da
 
 ![Paket murah SimPATI Loop 12 GB]({{ base.url }}/pictures/paket-murah-simpati-loop-12gb-2.jpg){: .center-image }
 
-`Kenapa harus yang 12 GB, bukankah ada pilihan 16 GB juga?`
+<h3>Kenapa harus yang 12 GB, bukankah ada pilihan 16 GB juga?</h3>
+Betul memang, paket terbesar dalam pilihan ini adalah `16 GB`, namun banyak pengguna kartu SimPATI Loop lebih <i>prefer</i> menggunakan paket quota data `12 GB`. Alasannya simple, karena lebih terjangkau dengan hanya mengeluarkan uang senilai (mulai) Rp. 50.000,- sudah dapat menikmati layanan Internet selama tiga puluh hari.
+
+<h3>Alternatif Menikmati Layanan Paket Murah SimPATI Loop</h3>
+Beberapa pengguna SimPATI Loop lebih memilih untuk menggunakan alternatif lain untuk menikmati layanan Internet yang lebih murah. Yakni dengan `sekali pakai`. Maksudnya bagaimana?
+
+Kartu perdana SimPATI Loop dapat dibeli dengan harga yang relatif murah dengan bonus paket yang cukup lumayan. Jika dihitung-hitung, akan lebih praktis karena bisa mendapatkan <strong>paket murah SimPATI Loop</strong> dengan cara ini. Setelah hapis paketnya digunakan, lalu beli lagi kartu perdana SimPATI Loop lainnya untuk menikmati bonus-bonusnya.
+
+Demikian informasi singkat tentang `Cara Daftar Paket SimPATI Loop 12 GB` serta alternatif cara menikmati <i>paket murah SimPATI Loop</i> yang dapat dicoba. Untuk pertanyaan dan saran dapat anda masukkan dalam kolom komentar yang tersedia di akhir artikel ini.
