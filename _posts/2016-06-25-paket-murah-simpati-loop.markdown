@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 <b>Paket Murah SimPATI Loop</b> - Salah satu jenis paket tarif kartu SimPATI ini memiliki beberapa paket yang bervariatif. Untuk mendaftar paket ini cukup dengan<!--more--> melakukan registrasi dengan memilih jenis paket yang menarik dan sesuai kebutuhan anda.
 
-Jika anda pengguna kartu SimPATI Loop, tentu anda paham aturan paket tarif yang berlaku pada jenis kertu SimPATI ini. Berbeda dengan [paket simpati]({{site.url}}) yang lainnya, SimPATI Loop menawarkan paket tarif yang cukup besar namun dengan syarat tertentu.
+Jika anda pengguna kartu SimPATI Loop, tentu anda paham aturan paket tarif yang berlaku pada jenis kertu SimPATI ini. Berbeda dengan [paket SimPATI]({{site.url}}) yang lainnya, SimPATI Loop menawarkan paket tarif yang cukup besar namun dengan syarat tertentu.
 
 Berikut ini adalah langkah-langkah untuk melakukan registrasi paket Internet SimPATI Loop dengan quota data sebesar `12 GB` yang dapat anda nikmati selama tiga puluh hari atau satu bulan.
 

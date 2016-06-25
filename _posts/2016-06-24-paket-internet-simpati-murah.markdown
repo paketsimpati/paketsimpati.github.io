@@ -78,4 +78,4 @@ Setelah melakukan pembelian paket SimPATI 4G LTE, selanjutnya lakukan pengecekan
 
 ![Daftar Paket internet SimPATI 4G LTE]({{ site.url }}/pictures/akses-889.jpg){: .center-image }
 
-Demikian informasi  <strong>Paket Internet SimPATI Murah</strong> yang dapat anda coba. Tarif serta ketersediaan paket ini dapat berubah kapan saja. Untuk itu, tetap pantau informasi terkait [Paket SimPATI]({{site.url}}) pada situs ini. Jika anda mengalami kendala terkait hal ini, silahkan tinggalkan komentar dibawah (fast response).
+Demikian informasi  <strong>Paket Internet SimPATI Murah</strong> yang dapat anda coba. Tarif serta ketersediaan paket ini dapat berubah kapan saja. Untuk itu, tetap pantau informasi terkait [Paket SimPATI]({{site.url}}) pada situs ini. Jika anda mengalami kendala terkait hal ini, silahkan tinggalkan komentar dibawah ini.

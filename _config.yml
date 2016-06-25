@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Paket SimPATI
-email: pakpati@paketsimpati.com
+title: Paket Sim<i>PATI</i>
+email: info@paketsimpati.com
 description: > # this means to ignore newlines until "baseurl:"
   Panduan Lengkap Pilihan Paket Termurah Kartu SimPATI Telkomsel
 baseurl: "" # the subpath of your site, e.g. /blog
