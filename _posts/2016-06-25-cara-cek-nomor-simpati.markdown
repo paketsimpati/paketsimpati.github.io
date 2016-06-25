@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cara Cek Nomor Simpati
+title:  Cara Cek Nomor Simpati Paling Mudah dan Praktis
 date:   2016-06-25 13:47:35 +0900
 categories: fitur
 permalink: cara-cek-nomor-simpati
@@ -13,6 +13,14 @@ Beberapa pengguna kartu SimPATI bahkan tidak pernah menghafal nomornya karena me
 </blockquote>
 
 Dari pada repot mencari dus pembungkus kartu pada saat pembelian ataupun membuka casing handphone untuk mengintip tempelan nomor pada bagian belakangnya. Ada cara lain yang lebih simple, yakni dengan menghubungi kode dial `*808#`.
+
+<h3>Langkah-Langkah Cara Cek Nomor SimPATI sendiri</h3>
+Gunakan fitur `Call Me`, ini merupakan fitur lama yang digunakan untuk meminta nomor tujuan anda menghubungi anda. Penggunaannya adalah sebagai berikut:
+
+<blockquote>
+	1. Ketik nomor *808#<br/>
+	2. Panggil dan tunggu respon
+</blockquote>
 
 ![Cara cek nomor SimPATI]({{ site.url }}/pictures/cara-cek-nomor-simpati-0.jpg){: .center-image }
 
