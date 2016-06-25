@@ -15,7 +15,7 @@ Berikut ini adalah langkah-langkah untuk melakukan registrasi paket Internet Sim
 <h3>Cara Daftar Paket Internet SimPATI Loop 12 GB</h3>
 Pertama-tama tentu pastikan kartu SimPATI Loop anda tidak dalam masa tenggang dan memiliki jumlah pulsa yang cukup untuk aktivasi paket internet ini. Jika temikian, selanjutnya silahkan ikuti cara berikut:
 
-![Cara cek nomor SimPATI]({{ site.url }}/pictures/paket-murah-simpati-loop-12gb-1.jpg){: .center-image }
+![Paket murah SimPATI Loop 12 GB]({{ site.url }}/pictures/paket-murah-simpati-loop-12gb-1.jpg){: .center-image }
 
 <blockquote>
 	1. Dial ke *567# <br/>
@@ -26,5 +26,7 @@ Pertama-tama tentu pastikan kartu SimPATI Loop anda tidak dalam masa tenggang da
 	6. Pilih point 1 "Ya". untuk konfirmasi pengaktifan paket<br/>
 	7. Tunggu pesan dari 3636, balas dengan "FLASH YA" untuk aktifkan paket
 </blockquote>
+
+![Paket murah SimPATI Loop 12 GB]({{ base.url }}/pictures/paket-murah-simpati-loop-12gb-2.jpg){: .center-image }
 
 `Kenapa harus yang 12 GB, bukankah ada pilihan 16 GB juga?`
