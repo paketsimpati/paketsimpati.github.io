@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 <b>Paket Internet SimPATI Murah</b> - Halo pengguna SimPATI, kali ini <i>PakPATI</i> akan memberikan informasi terkait paket internet salah produk unggulan ini. Telkomsel mengeluarkan salah satu produk handalanya yakni Kartu SimPATI dalam beberapa versi paket. Beberapa paket bersifat<!--more--> terbatas, yang berarti tidak dapat diakses oleh paket SimPATI lain melalui fasilitas pindah paket seperti yang dapat diakses melalui menu standard `*999#`.
-
+{% include ads-left-300x250.html %}
 Bagi anda pelanggan setia kartu SimPATI yang hendak memperoleh <i>paket internet SimPATI harga murah</i> dapat menggunakan beberapa pilihan berikut ini yang telah dirangkum sesuai dengan jenis kartu SimPATI anda.
 <h3>1. Paket Internet Murah SimPATI Active</h3>
 Pastikan jenis kartu sim anda adalah SimPATI Active, untuk mengecek status kartu anda bisa melalui menu `*999#`. Lalu untuk mendapatkan paket internet murah, silahkan gunakan langkah-langkah berikut ini:
@@ -70,7 +70,7 @@ Untuk lebih jelasnya, dapat anda simak pada tabel deskripsi paket tarif SimPATI 
 </table>
 
 Jika dilihat dari harga, memang jauh lebih tinggi karena nilai kuota yang didapat juga lebih besar jika dibandingkan dengan `Paket SimPATI` Active seperti yang dipaparkan pada point 1 (satu) di atas.
-
+{% include ads-center-relative.html %}
 <h4>Cara Daftar Paket SimPATI Internet 4G LTE</h4>
 Untuk mendaftar paket SimPATI 4G LTE ini, prosesnya sama dengan pendaftaran paket FLASH, yakni melalui kode dial `*363#`. Selanjutnya anda pilih Paket 4G LTE yang terdiri dari paket sebulan dan lebih dari satu bulan.
 
