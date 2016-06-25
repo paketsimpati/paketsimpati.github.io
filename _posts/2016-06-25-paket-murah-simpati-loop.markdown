@@ -5,6 +5,7 @@ date:   2016-06-25 19:42:05 +0900
 categories: fitur
 permalink: paket-murah-simpati-loop
 excerpt_separator: <!--more-->
+author: admin
 ---
 <b>Paket Murah SimPATI Loop</b> - Salah satu jenis paket tarif kartu SimPATI ini memiliki beberapa paket yang bervariatif. Untuk mendaftar paket ini cukup dengan<!--more--> melakukan registrasi dengan memilih jenis paket yang menarik dan sesuai kebutuhan anda.
 
@@ -38,3 +39,5 @@ Beberapa pengguna SimPATI Loop lebih memilih untuk menggunakan alternatif lain u
 Kartu perdana SimPATI Loop dapat dibeli dengan harga yang relatif murah dengan bonus paket yang cukup lumayan. Jika dihitung-hitung, akan lebih praktis karena bisa mendapatkan <strong>paket murah SimPATI Loop</strong> dengan cara ini. Setelah hapis paketnya digunakan, lalu beli lagi kartu perdana SimPATI Loop lainnya untuk menikmati bonus-bonusnya.
 
 Demikian informasi singkat tentang `Cara Daftar Paket SimPATI Loop 12 GB` serta alternatif cara menikmati <i>paket murah SimPATI Loop</i> yang dapat dicoba. Untuk pertanyaan dan saran dapat anda masukkan dalam kolom komentar yang tersedia di akhir artikel ini.
+
+<!--script src="https://gist.github.com//seanbuscay/4e782a2274b7cfc096d0.js?file=jekyll-pager-teasers.html"> </script-->

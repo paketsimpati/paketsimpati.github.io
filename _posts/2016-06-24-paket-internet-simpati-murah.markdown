@@ -5,6 +5,7 @@ date:   2016-06-24 22:47:35 +0900
 categories: internet
 permalink: paket-internet-simpati-murah
 excerpt_separator: <!--more-->
+author: admin
 ---
 
 <b>Paket Internet SimPATI Murah</b> - Telkomsel mengeluarkan salah satu produk handalanya yakni Kartu SimPATI dalam beberapa versi paket. Beberapa paket bersifat<!--more--> terbatas, yang berarti tidak dapat diakses oleh paket SimPATI lain melalui fasilitas pindah paket seperti yang dapat diakses melalui menu standard `*999#`.
