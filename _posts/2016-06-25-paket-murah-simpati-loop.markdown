@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cara Daftar Paket Murah SimPATI Loop 12 GB
+title:  Cara Dapat Paket Murah SimPATI Loop Terbaru
 date:   2016-06-25 19:42:05 +0900
 categories: fitur
 permalink: paket-murah-simpati-loop
