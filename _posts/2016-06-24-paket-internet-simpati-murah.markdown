@@ -13,7 +13,7 @@ Bagi anda pelanggan setia kartu SimPATI yang hendak memperoleh <i>paket internet
 <h3>1. Paket Internet Murah SimPATI Active</h3>
 Pastikan jenis kartu sim anda adalah SimPATI Active, untuk mengecek status kartu anda bisa melalui menu `*999#`. Lalu untuk mendapatkan paket internet murah, silahkan gunakan langkah-langkah berikut ini:
 
-![Paket internet SimPATI murah]({{ site.url }}/assets/paket-internet-simpati-murah.jpg){: .center-image }
+![Paket internet SimPATI murah]({{ site.url }}/pictures/paket-internet-simpati-murah.jpg){: .center-image }
 
 <ol>
  	<li>Tekan/Call "*999*333#"</li>
@@ -24,7 +24,7 @@ Pastikan jenis kartu sim anda adalah SimPATI Active, untuk mengecek status kartu
  	<li>Paket Internet SimPATI Murah anda telah aktif sesuai tarif zona yang berlaku</li>
 </ol>
 
-![Paket murah internet SimPATI]({{ site.url }}/assets/paket-murah-internet-simpati.jpg){: .center-image }
+![Paket murah internet SimPATI]({{ site.url }}/pictures/paket-murah-internet-simpati.jpg){: .center-image }
 
 Untuk mengecek jumlah paket data anda, dapat dengan melakukan panggilan ke nomor `*889#` atau mengirimkan SMS ke nomor `3636` dengan format `FLASH INFO`.
 
@@ -76,6 +76,6 @@ Untuk mendaftar paket SimPATI 4G LTE ini, prosesnya sama dengan pendaftaran pake
 
 Setelah melakukan pembelian paket SimPATI 4G LTE, selanjutnya lakukan pengecekan paket melalui kode dial `*889#` untuk memastikan quota yang anda beli telah diaktifkan sesuai durasi saat pembelian tadi.
 
-![Daftar Paket internet SimPATI 4G LTE]({{ site.url }}/assets/akses-889.jpg){: .center-image }
+![Daftar Paket internet SimPATI 4G LTE]({{ site.url }}/pictures/akses-889.jpg){: .center-image }
 
 Demikian informasi  <strong>Paket Internet SimPATI Murah</strong> yang dapat anda coba. Tarif serta ketersediaan paket ini dapat berubah kapan saja. Untuk itu, tetap pantau informasi terkait [Paket SimPATI]({{site.url}}) pada situs ini. Jika anda mengalami kendala terkait hal ini, silahkan tinggalkan komentar dibawah (fast response).
